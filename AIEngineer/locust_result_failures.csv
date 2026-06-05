@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,/api/career-chatbot,"ConnectionRefusedError(111, 'Connection refused')",35,2026-06-04T15:38:16Z,2026-06-04T15:38:42Z
+GET,/api/skill-trends?label=RISING&limit=20,"ConnectionRefusedError(111, 'Connection refused')",34,2026-06-04T15:38:15Z,2026-06-04T15:38:44Z
+POST,/api/extract-cv,"ConnectionRefusedError(111, 'Connection refused')",69,2026-06-04T15:38:15Z,2026-06-04T15:38:43Z
+POST,/api/gap-score,"ConnectionRefusedError(111, 'Connection refused')",84,2026-06-04T15:38:16Z,2026-06-04T15:38:44Z

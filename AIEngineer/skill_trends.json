@@ -1,0 +1,212 @@
+{
+  "Accounting/Auditing": {
+    "forecast_6_months": 44019.045238748055,
+    "growth_pct": 1104.0220251298701,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Administrative": {
+    "forecast_6_months": 40362.87445657579,
+    "growth_pct": 1116.482051132483,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Advertising": {
+    "forecast_6_months": 6020.720939481099,
+    "growth_pct": 1133.7542908772743,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Analyst": {
+    "forecast_6_months": 34586.34485570768,
+    "growth_pct": 1122.5643285863441,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Art/Creative": {
+    "forecast_6_months": 13495.487961382663,
+    "growth_pct": 1090.078303472898,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Business Development": {
+    "forecast_6_months": 104693.53313661317,
+    "growth_pct": 1054.5383010213186,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Consulting": {
+    "forecast_6_months": 21741.352987557122,
+    "growth_pct": 1147.3524376108503,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Customer Service": {
+    "forecast_6_months": 36802.45226550648,
+    "growth_pct": 1145.429856700727,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Design": {
+    "forecast_6_months": 18663.804320415027,
+    "growth_pct": 1100.2446508305484,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Distribution": {
+    "forecast_6_months": 4011.368406793525,
+    "growth_pct": 1189.829069708529,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Education": {
+    "forecast_6_months": 18711.9725253067,
+    "growth_pct": 1111.1309077868414,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Engineering": {
+    "forecast_6_months": 113227.45081860675,
+    "growth_pct": 1133.5488704500135,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Finance": {
+    "forecast_6_months": 69282.11215047236,
+    "growth_pct": 1110.8023794210478,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "General Business": {
+    "forecast_6_months": 14198.79667970534,
+    "growth_pct": 1037.7240929251072,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Health Care Provider": {
+    "forecast_6_months": 112187.62431322999,
+    "growth_pct": 968.6571186247855,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Human Resources": {
+    "forecast_6_months": 22694.404856816833,
+    "growth_pct": 1107.7916368715717,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Information Technology": {
+    "forecast_6_months": 221999.90988606142,
+    "growth_pct": 1121.4575509549459,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Legal": {
+    "forecast_6_months": 18650.02683141939,
+    "growth_pct": 1108.6861199882949,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Management": {
+    "forecast_6_months": 91804.86803762482,
+    "growth_pct": 536.2083717091117,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Manufacturing": {
+    "forecast_6_months": 79723.17611860749,
+    "growth_pct": 535.8524175993579,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Marketing": {
+    "forecast_6_months": 46704.260558512564,
+    "growth_pct": 1098.1595833379313,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Other": {
+    "forecast_6_months": 104291.62750163577,
+    "growth_pct": 1092.4494340456868,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Product Management": {
+    "forecast_6_months": 11417.781346594898,
+    "growth_pct": 1109.5107358681037,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Production": {
+    "forecast_6_months": 6592.10356762722,
+    "growth_pct": 1111.7837440491214,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Project Management": {
+    "forecast_6_months": 34167.14495029697,
+    "growth_pct": 1133.4709368338256,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Public Relations": {
+    "forecast_6_months": 10852.365319996641,
+    "growth_pct": 1115.2704725640137,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Purchasing": {
+    "forecast_6_months": 5253.492832579239,
+    "growth_pct": 1110.4822194883038,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Quality Assurance": {
+    "forecast_6_months": 15645.170196671197,
+    "growth_pct": 1142.6664175274977,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Research": {
+    "forecast_6_months": 27080.106134347716,
+    "growth_pct": 1127.009793128578,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Sales": {
+    "forecast_6_months": 172471.697624866,
+    "growth_pct": 1073.995627424042,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Science": {
+    "forecast_6_months": 7856.055972127245,
+    "growth_pct": 1163.031506772869,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Strategy/Planning": {
+    "forecast_6_months": 10802.006567016639,
+    "growth_pct": 1148.786886360305,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Supply Chain": {
+    "forecast_6_months": 10885.679522496968,
+    "growth_pct": 1149.7909899537276,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Training": {
+    "forecast_6_months": 18462.47617166605,
+    "growth_pct": 1107.48699618483,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  },
+  "Writing/Editing": {
+    "forecast_6_months": 12317.198285406257,
+    "growth_pct": 1119.5245827134909,
+    "trend_score": 1,
+    "trend_label": "RISING"
+  }
+}
