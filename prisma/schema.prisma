@@ -1,0 +1,37 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id               String            @id @default(uuid())
+  email            String            @unique
+  passwordHash     String
+  name             String
+  createdAt        DateTime          @default(now())
+  skillProfiles    SkillProfile[]
+  analysisHistories AnalysisHistory[]
+}
+
+model SkillProfile {
+  id              String   @id @default(uuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id])
+  skills          Json     // Array of skills
+  experienceLevel String
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model AnalysisHistory {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  inputData   Json     // Data yang dikirim ke AI
+  resultData  Json     // Hasil dari AI
+  createdAt   DateTime @default(now())
+}
